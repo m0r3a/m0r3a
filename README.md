@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m0r3a
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning FullStack Web Developing
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me buretdan52@gmail.com
 
