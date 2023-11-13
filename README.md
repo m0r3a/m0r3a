@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning FullStack Web Developing
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me buretdan52@gmail.com
+- 📫 How to reach me https://www.linkedin.com/in/danila-buret-4a491526b/
 
 <!---
 m0r3a/m0r3a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
