@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m0r3a
+- 👋 Hi, I’m Buret Danila, aka m0r3a
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning FullStack Web Developing
 - 💞️ I’m looking to collaborate on projects
